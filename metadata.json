@@ -1,0 +1,6 @@
+{
+  "name": "Rafaella",
+  "description": "Uma reflexão sincera e um pedido de desculpas com respeito, maturidade e sem pressa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
